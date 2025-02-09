@@ -1,6 +1,6 @@
-import streamlit as st
+import streamlit as am
 
-st.title("🎈 My new app")
-st.write(
+am.title("Ambulance Aggregation")
+am.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
